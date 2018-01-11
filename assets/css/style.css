@@ -1,0 +1,79 @@
+body {
+	background-image: url("../images/spiration/spiration-light.png");
+	min-height: 100%;
+	font-family: 'Open Sans', sans-serif;
+
+}
+
+.container {
+	width:100%;
+	min-height: 600px;
+	margin-bottom: 40px;
+}
+
+.jumbotron {
+	color:#FFFFFF;
+	background-color: #062764;
+	height:200px;
+	padding-top: 0px;
+	text-align: center;
+	border-radius:10px; 
+}
+
+.jumbo-title{
+	font-family: 'Yellowtail', cursive;
+	font-size: 80px;
+}
+
+
+.panel {
+	background-color: #FFFFFF;
+	border:solid 1px #062764;
+	border-radius:10px; 
+
+}
+
+.panel-heading {
+	background-color: #7E1F3B;
+	color:#FFFFFF;
+	padding:5px;
+	text-align: center;
+	border-radius:10px; 
+}
+
+.panel-body {
+	padding:20px;
+	border-radius:10px; 
+}
+
+th {
+	font-weight: bold;
+}
+
+.input {
+	width:100%;
+}
+
+#submit {
+	color:#FFFFFF;
+	background-color:#7E1F3B;
+	padding:10px 20px 10px 20px;
+	border-radius:10px; 
+}
+
+#submit:hover {
+	background-color: #062764;
+}
+
+footer {
+	position:relative;
+	width:100%;
+	font-size:20px;
+	color:#FFFFFF;
+	background-color: #062764;
+	text-align: center;
+	height:60px;
+	margin-top: 30px;
+	border-radius:10px; 
+
+}
