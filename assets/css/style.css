@@ -50,6 +50,16 @@ th {
 	font-weight: bold;
 }
 
+#remove {
+	background-color: #7E1F3B;
+	padding:10px 20px 10px 20px;
+	border-radius:10px; 
+}
+
+#remove:hover {
+	background-color:#062764;
+}
+
 .input {
 	width:100%;
 }
